@@ -1,4 +1,4 @@
-# BQ27220_Arduino
+# kode_BQ27220
 
 Minimal-yet-practical Arduino library for the TI BQ27220 (CEDV) single‑cell Li‑ion/Li‑Po fuel gauge.
 
